@@ -1,0 +1,14 @@
+.container {
+  text-align: center;
+}
+h1 {
+  font-size: 30px;
+  font-weight: 700;
+}
+.btn {
+  width: 80px;
+  border: none;
+  padding: 8px;
+  cursor: pointer;
+  background-color: blue;
+}
